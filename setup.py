@@ -4,6 +4,7 @@ setup(
 	name='trio-pools',
 	version='0.0.1',
 	packages=find_packages('src/'),
+	package_dir={'': 'src'},
 	tests_require=['pytest', 'pytest-trio'],
 	url='https://github.com/Ostoic/trio-pools',
 	license='MIT',
