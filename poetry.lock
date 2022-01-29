@@ -202,8 +202,8 @@ sortedcontainers = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "20c48d0a549575cf669b33e0313330a903eabda93cdc00cb2ca3c4f56104bd19"
+python-versions = "^3.8"
+content-hash = "453210c351f7eb596ea15941034168527b2f6ada54041f97eb338c3739d06706"
 
 [metadata.files]
 async-generator = [
