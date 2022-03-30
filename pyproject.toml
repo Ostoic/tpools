@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "trio-pools"
+name = "tpools"
 version = "0.0.1"
 description = ""
 authors = ["Shaun Ostoic <ostoic@uwindsor.ca>"]
